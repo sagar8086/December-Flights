@@ -1,1 +1,3 @@
 # December-Flights
+
+To compute the median difference between arrival and departure time for two airlines namely United and Delta. The data consists of the difference between actual and scheduled arrival for a sample of United and Delta flights in December 2014 along with the airline information. The median time difference was approx. 5 minutes (negative value) indicating most flights arrived early. The study has been conducted to apply different statistical techniques aiming to identify the difference in time for a Delta vs United airline flights. The statistics revealed from the study showed that the difference between the median time for Delta airlines and United airlines is significant.
